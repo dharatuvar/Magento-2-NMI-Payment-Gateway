@@ -14,16 +14,16 @@ It helps differentiate from other payment gateways while processing high-risk pa
 
 ## Features of Magento 2 NMI Payment Gateway:
 
-•       Facilitates secure credit card payments by integrating NMI payment gateway with your Magento 2 store.
-•       The admin can enable the NMI payment gateway and vault functionality from the backend.
-•       Option to set a custom title for the payment method
-•       The admin can choose to show or hide the payment gateway logo on the frontend.
-•       Offers sandbox mode for testing.
-•       Facilitates easy integration of NMI Payment Gateway using security key obtained at the time of registration.
-•       Frontend option for the payment gateway to show custom instructions.
-•       Facility to check the payment details in “My Account” section.
-•       Backend option to get the payment details for the orders.
-•       The module offers online refund facility and can even generate credit memo from the backend.
+* Facilitates secure credit card payments by integrating NMI payment gateway with your Magento 2 store.
+* The admin can enable the NMI payment gateway and vault functionality from the backend.
+* Option to set a custom title for the payment method
+* The admin can choose to show or hide the payment gateway logo on the frontend.
+* Offers sandbox mode for testing.
+* Facilitates easy integration of NMI Payment Gateway using security key obtained at the time of registration.
+* Frontend option for the payment gateway to show custom instructions.
+* Facility to check the payment details in “My Account” section.
+* Backend option to get the payment details for the orders.
+* The module offers online refund facility and can even generate credit memo from the backend.
 
 
 For more information, visit [https://meetanshi.com/magento-2-nmi-payment-gateway.html](https://meetanshi.com/magento-2-nmi-payment-gateway.html)
